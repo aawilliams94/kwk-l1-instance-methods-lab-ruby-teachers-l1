@@ -17,5 +17,7 @@ class Dog
   
   def sit
     @sit
+  end
+  
 end
   

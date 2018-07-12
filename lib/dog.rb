@@ -17,6 +17,7 @@ class Dog
   
   def sit
     @sit
+    puts "The Dog is sitting."
   end
   
 end
